@@ -190,6 +190,7 @@ p {
 	position:relative;
 	top:-240px;
 	left:150px;
+	line-height: 10px;
 }
 
 #label2 {
@@ -205,6 +206,7 @@ p {
 	top:-280px;
 	left:350px;
 	text-align: center;
+	line-height: 10px;
 }
 
 #label3 {
@@ -220,6 +222,7 @@ p {
 	position:relative;
 	top:-150px;
 	left:30px;
+	line-height: 10px;
 }
 
 #label4 {
@@ -235,6 +238,7 @@ p {
 	position:relative;
 	top:-190px;
 	left:255px;
+	line-height: 10px;
 }
 
 #label5 {
@@ -250,6 +254,7 @@ p {
 	position:relative;
 	top:-230px;
 	left:480px;
+	line-height: 10px;
 }
 
 body {
